@@ -216,3 +216,4 @@ folder so that it looks like so:
 ``` $ tree .  └── rottenpotatoes
     ├── Gemfile ├── Gemfile.lock ├── app ...
 ```
+[![Build Status](https://travis-ci.org/Aelita0319/hw-tdd-rspec.svg?branch=Aelita0319-patch-1)](https://travis-ci.org/Aelita0319/hw-tdd-rspec)
